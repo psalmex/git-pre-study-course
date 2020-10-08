@@ -25,10 +25,10 @@ body {
   text-transform: uppercase;
 }
 .table tbody tr:nth-child(odd) {
-  background: $white;
+  background: white;
 }
 .table tbody tr:nth-child(even) {
-  background: $f8fbfc;
+  background: f8fbfc;
 }
 .table__wrapper {
   padding-top: 40px;
@@ -47,7 +47,7 @@ body {
   text-decoration: none;
 }
 .btn:hover {
-  color: $white;
+  color: white;
 }
 .btn__male {
   color: #2DE1FC;
